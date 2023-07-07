@@ -12,13 +12,13 @@ export const Footer = () => {
     <div className="footer">
       <small> &copy; {copyrightYear} Chirag Taluja</small>
       <div className="social-links">
-        <Link to="https://twitter.com/ichiragtaluja" target="_blank">
+        <Link to="https://twitter.com/dinesh" target="_blank">
           <BsTwitter />
         </Link>
-        <Link to="https://github.com/ichiragtaluja" target="_blank">
+        <Link to="https://github.com/dineshsai" target="_blank">
           <ImGithub />
         </Link>
-        <Link to="https://www.linkedin.com/in/ichiragtaluja" target="_blank">
+        <Link to="https://www.linkedin.com/in/dineshsai" target="_blank">
           <SiLinkedin />
         </Link>
       </div>
